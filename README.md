@@ -1,2 +1,2 @@
-# Time-Series-Forecasting
-Time-Series-Forecasting applying all concepts to check organic search results for various keywords based on timeline
+# Time-Series-Forecasting-Analysis
+Applied All Concepts of Time Series Forecasting such as (Dickey-Fuller Test, How to Check Stationarity of a Time Series?,  Applying log Transformation, Moving Average, Exponentially Weighted Moving Average, Seasonal Trend Lines Decomposition, Eliminating Trend and Seasonality, Decomposing,  ACF &amp; PACF Plots, Developing ARIMA Model, AR-Model, MA-Model and Combined Model ) on the Client Specific Results on a Specific Organic Search Results Page 
